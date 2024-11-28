@@ -12,7 +12,7 @@ BookReviewApp is a web application that allows users to review, and rate books. 
 
 ### Installation
 1. Clone the repository:
-    git clone https://github.com/it22106506/BookReviewApp.git
+    git clone https://github.com/IT22106506/BookReviewApp.git
 
 2. Navigate to the project directory:
     cd BookReviewApp
